@@ -5,7 +5,7 @@ Welcome to the IrisML repository! This project provides an in-depth exploration 
 ### Exploratory Data Analysis (EDA):
 * Understand the dataset’s structure, distributions, and relationships.
 * Visualize key features using scatter plots, histograms, and correlation matrices.
-Supervised Learning (Classification):
+### Supervised Learning (Classification):
 * Train and evaluate classification models (e.g., logistic regression, decision trees, random forests) to predict Iris species.
 * Compare accuracy, precision, recall, and F1-score.
 ### Unsupervised Learning (Clustering):
