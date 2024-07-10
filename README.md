@@ -14,7 +14,7 @@ Welcome to the IrisML repository! This project provides an in-depth exploration 
 ## Getting Started:
 * Download the dataset from kaggle :[ https://www.kaggle.com/datasets/uciml/iris](https://www.kaggle.com/datasets/uciml/iris)
 * Clone this repository:
-`git clone https://github.com/your-username/IrisML.git
+`git clone https://github.com/rumanmlk/IrisML.git
 `
 * Install dependencies (e.g., NumPy, pandas, scikit-learn).
 * Explore the Jupyter notebooks in the notebooks directory.
