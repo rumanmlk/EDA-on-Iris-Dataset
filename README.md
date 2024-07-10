@@ -7,11 +7,12 @@ Welcome to the IrisML repository! This project provides an in-depth exploration 
 * Visualize key features using scatter plots, histograms, and correlation matrices.
 ### Supervised Learning (Classification):
 * Train and evaluate classification models (e.g., logistic regression, decision trees, random forests) to predict Iris species.
-* Compare accuracy, precision, recall, and F1-score.
+* Asses Accuracy
 ### Unsupervised Learning (Clustering):
 * Apply clustering algorithms (e.g., k-means, DBSCAN) to group similar Iris samples.
 * Visualize clusters and assess their quality.
 ## Getting Started:
+* Download the dataset from kaggle :[ https://www.kaggle.com/datasets/uciml/iris](https://www.kaggle.com/datasets/uciml/iris)
 * Clone this repository:
 `git clone https://github.com/your-username/IrisML.git
 `
